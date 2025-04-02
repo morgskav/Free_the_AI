@@ -1,4 +1,4 @@
-# Free the AI > -> because AI implementation is a communication act
+# Free the AI &rarr; because AI implementation is a communication act
 
 
 [IMK Model Menagerie](https://9488e693e5393d8de0.gradio.live/)

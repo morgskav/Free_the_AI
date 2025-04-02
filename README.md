@@ -1,5 +1,5 @@
 # Free_the_AI
-
+[IMK Model Menagerie](https://9488e693e5393d8de0.gradio.live/)
 ## 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, and Strategic Showcase
 
 **We embody communication – enhanced by AI that we shape and master with our expertise.**

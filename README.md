@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/77955d13-d4c4-4f59-9c58-c8f154993a63" alt="Free the AI" width="25%">
-</p>
+
 
 
 [IMK Model Menagerie](https://9488e693e5393d8de0.gradio.live/)

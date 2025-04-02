@@ -8,7 +8,7 @@
 
 ## 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, and Strategic Showcase
 
-**"We embody communication – enhanced by AI that we shape and master with our expertise."**
+>**"We embody communication – enhanced by AI that we shape and master with our expertise."**
 
 The IMK Model Menagerie is part of a strategic initiative that challenges the narrative that AI will replace language professionals. With the managerie, we can show how trained linguists and communication experts can take a leading role in shaping, developing, and deploying AI systems. By combining technical understanding with linguistic expertise, we empower a new generation of professionals to curate domain-specific AI models, evaluate their impact, and help define entirely new career paths.
 

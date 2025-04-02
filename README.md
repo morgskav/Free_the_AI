@@ -59,3 +59,4 @@ The Menagerie is also a proof of concept: our students and researchers can train
 - Open new career paths in AI implementation.
 - Showcase the strategic role of language expertise in shaping technology.
 
+*Picture genrated with my AI

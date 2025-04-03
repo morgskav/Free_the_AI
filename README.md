@@ -10,7 +10,7 @@
 
 The IMK Model Menagerie is part of a strategic initiative that challenges the narrative that AI will replace professionals. With the managerie, we can show how trained linguists and communication experts in collaboration with domain experts can take a leading role in shaping, developing, and deploying AI systems. By combining technical understanding with linguistic expertise, we empower professionals to curate domain-specific AI models, evaluate their impact, and help define entirely new career paths.
 
-### What Is the IMK Model Menagerie?
+### What is the IMK Model Menagerie?
 
 The IMK Model Menagerie is a collection of state-of-the-art, open-source, locally run, data protection compliant, transparent, configurable, fine-tuneable, and scalable AI models—both large and small.
 

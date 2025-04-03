@@ -59,4 +59,4 @@ The Menagerie is also a proof of concept: our students and researchers can train
 
 >**"We embody communication and professional expertise–-enhanced by AI that we shape and master with our expertise."**
 
-*Picture genrated with a variety of models from my menagerie*
+

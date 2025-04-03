@@ -1,7 +1,7 @@
 
 
 
-[IMK Model Menagerie](https://9488e693e5393d8de0.gradio.live/)
+[IMK Model Menagerie](https://3b2df15f04059bf036.gradio.live/)
 
 
 ## 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, and Strategic Showcase

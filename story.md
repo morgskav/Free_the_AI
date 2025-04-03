@@ -5,7 +5,7 @@
 <p align="center">
   <img src="./Front%20page.png" alt="Cover Page" width="300"/>
 </p>
-<p align="center"><em>Once upon a time, AI was open and free</em></p>
+
 
 
 
@@ -13,7 +13,7 @@
 
 | ![Once Free](./1.%20Once_free.png) | ![Under Control](./2.%20under_control_of_big_tec.png) |
 |:--:|:--:|
-| *Once upon a time, AI was open and free* | *Then it came under the control of profit* |
+|  *Once upon a time, AI was open and free* | *Then it came under the control of profit* |
 
 
 

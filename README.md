@@ -8,7 +8,7 @@
 
 >**"Putting the L back in LLM - Language Matters because AI implementation is a communicative act"**
 
-The IMK Model Menagerie is part of a strategic initiative that challenges the narrative that AI will replace language professionals. With the managerie, we can show how trained linguists and communication experts can take a leading role in shaping, developing, and deploying AI systems. By combining technical understanding with linguistic expertise, we empower a new generation of professionals to curate domain-specific AI models, evaluate their impact, and help define entirely new career paths.
+The IMK Model Menagerie is part of a strategic initiative that challenges the narrative that AI will replace professionals. With the managerie, we can show how trained linguists and communication experts in collaboration with domain experts can take a leading role in shaping, developing, and deploying AI systems. By combining technical understanding with linguistic expertise, we empower professionals to curate domain-specific AI models, evaluate their impact, and help define entirely new career paths.
 
 ### What Is the IMK Model Menagerie?
 
@@ -38,11 +38,11 @@ In contrast to opaque, corporate-controlled AI, the Menagerie is:
 
 
 
-### Empowering Linguists and Communication Experts
+### Empowering Linguists and Communication Experts and domain professionals
 
 The Menagerie is more than a tool—it’s a **learning and transformation platform**. It allows us to demonstrate how language professionals can meaningfully contribute to every stage of AI implementation:
 
-- **Problem Assessment**: When is machine translation, an LLM, or even a non-AI solution the best fit?
+- **Problem Assessment**: Is an AI solution appropriate. If so, which model is the best fit?
 - **Model Selection**: Which models best suit a particular communication task or domain?
 - **Model Configuration**: How do prompt design, temperature, and sampling settings affect performance?
 - **Data Curation**: How do we select and evaluate examples for prompts or fine-tuning?
@@ -57,6 +57,6 @@ The Menagerie is also a proof of concept: our students and researchers can train
 - Open new career paths in AI implementation.
 - Showcase the strategic role of language expertise in shaping technology.
 
->**"We embody communication – enhanced by AI that we shape and master with our expertise."**
+>**"We embody communication and professional expertise–-enhanced by AI that we shape and master with our expertise."**
 
 *Picture genrated with a variety of models from my menagerie*

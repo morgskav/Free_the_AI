@@ -1,6 +1,10 @@
-```html
-<iframe src="https://3b2df15f04059bf036.gradio.live/" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
-```
+
+
+
+[![interface](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://3b2df15f04059bf036.gradio.live/)
+
+![[interface](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://github.com/user-attachments/assets/e7fb02d5-af4b-4ae1-8ec6-3bb22d8f0057)
+
 
 
 [IMK Model Menagerie](https://3b2df15f04059bf036.gradio.live/)

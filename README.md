@@ -7,9 +7,6 @@
 
 
 
-[IMK Model Menagerie](https://3b2df15f04059bf036.gradio.live/)
-
-
 ## 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, Development Arena and Strategic Showcase
 
 >**"Putting the L back in LLM - Language Matters because AI implementation is a communicative act"**

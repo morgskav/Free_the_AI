@@ -27,7 +27,7 @@ In contrast to opaque, corporate-controlled AI, the Menagerie is:
 - **Transparent** – model architecture, training data, and use cases are fully documented and open.
 - **Cost-effective** – open-source models eliminates reliance on costly licenses or external vendors.
 - **Curated** – we can adapted interfaces, adjust all settings and fine-tuned models to meet specific research questions or experiece goals.
-- **Ours** – from interface, model parameters to implementation concept, everything is built, owned, and operated by us.
+- **Ours** – from interface, model parameters to implementation concept and compute, everything is built, owned, and operated by us.
 
 ### Empowering Linguists, Communication Experts and Domain Professionals
 

@@ -8,7 +8,7 @@
 
 >**"Putting the L back in LLM - Language Matters because AI implementation is a communicative act"**
 
-The IMK Model Menagerie disrupts the business model driving the replacement of human experts and communicators with AI solutions. With the managerie, we can show how much language matters and how language experts can enable domain experts to take a leading role in shaping, developing, and deploying AI systems. We empower experts to curate domain-specific AI models, conduct research on them, and take full ownership of their implementation-all open-source and local.
+The IMK Model Menagerie disrupts the business model driving the replacement of human experts and communicators with AI solutions. With the managerie, we can show how much language matters and how language experts can enable domain experts to take a leading role in shaping, developing, and deploying AI systems. We empower experts to curate domain-specific AI models, conduct research on them, and take full ownership of their implementation—all open-source and local.
 
 ### What is the IMK Model Menagerie?
 
@@ -45,6 +45,6 @@ Our students and researchers can train, deploy, and manage their own AI models. 
 - Increase the value of our education offerings.
 - Open new career paths for all domain areas by laying claim to their role in AI implementation.
 
->**"We embody communication and professional expertise-augmented by AI that we shape and master."**
+>**"We embody communication and professional expertise—augmented by AI that we shape and master."**
 
 

@@ -1,5 +1,5 @@
-
-
+# Free the AI
+Let's bring open-source AI to the ZHAW—local, private, secure, flexible, and entirely our own. 
 
 [![interface](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://3b2df15f04059bf036.gradio.live/)
 
@@ -7,7 +7,7 @@
 
 
 
-## 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, Development Arena and Strategic Showcase
+# 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, Development Arena and Strategic Showcase
 
 >**"Putting the L back in LLM - Language Matters because AI implementation is a communicative act"**
 

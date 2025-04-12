@@ -1,10 +1,7 @@
 # Free the AI
 Let's bring open-source AI to the ZHAW—local, private, secure, flexible, and entirely our own. 
 
-[![interface](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://3b2df15f04059bf036.gradio.live/)
 
-
-![[interface](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://github.com/user-attachments/assets/e7fb02d5-af4b-4ae1-8ec6-3bb22d8f0057)
 
 # 🐉 The IMK Model Menagerie: A Curated Experience Space, Research Platform, Development Arena and Strategic Showcase
 

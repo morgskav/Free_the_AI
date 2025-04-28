@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/2317179c-77f4-4e1e-a930-7d79fa98195a)
+![image](https://github.com/user-attachments/assets/2317179c-77f4-4e1e-a930-7d79fa98195a)(![image](https://github.com/user-attachments/assets/8c95287a-1b86-4573-9601-1c8e7a7bc7c3)
+
 
 
 # Free the AI

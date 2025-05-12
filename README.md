@@ -1,4 +1,4 @@
-[![image](https://github.com/user-attachments/assets/2317179c-77f4-4e1e-a930-7d79fa98195a)](https://6350b0c5cdf67668b0.gradio.live/)
+![image](https://github.com/user-attachments/assets/2317179c-77f4-4e1e-a930-7d79fa98195a)
 
 
 
